@@ -2,8 +2,7 @@
 
 CMU CS '29. Interested in ML, quantitative research, and systems that make careful use of real data.
 
-**Background:** USAMO qualifier · USACO Platinum · SAT 1600/ACT 36 · ML Intern @ [Cartesia](https://cartesia.ai) 
----
+
 
 #### Projects
 
